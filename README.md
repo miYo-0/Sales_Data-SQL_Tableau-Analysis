@@ -59,7 +59,7 @@ An automated dashboard providing quick & latest sales insights in order to suppo
 - Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
 
 ### Data Analysis - Approach
-<p  align="center"><a<img width="80%" src="https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/images/flow.jpg" /></a></p>
+<p  align="center"><img width="80%" src="https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/images/flow.jpg" /></p>
 
 ### Setup Process
   
