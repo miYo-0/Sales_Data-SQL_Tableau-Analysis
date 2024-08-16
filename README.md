@@ -115,17 +115,17 @@ Step 5: Save the file as (.twb or .twbx)
 
 ## Data Analysis Using Tableau 
   
-### Tableau Public Dashboards: [Revenue & Profit Analysis](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link) 
+### Tableau Public Dashboards: [Revenue & Profit Analysis](https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/Sales%20Insights%20-%20Data%20Analysis%20Tableau.twbx) 
 
 #### Creating Star Schema in Tableau
 	
 <p  align="center"><img width="80%" src="https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/images/Star%20Schema.png" /></p>
 
-#### Tableau Dashboard - [Revenue Analysis](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+#### Tableau Dashboard - [Revenue Analysis](https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/Sales%20Insights%20-%20Data%20Analysis%20Tableau.twbx)
 	
 <p  align="center"><img width="100%" src="https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png" /></p>
 
-#### Tableau Dashboard - [Profit Analysis](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-ProfitAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+#### Tableau Dashboard - [Profit Analysis](https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/Sales%20Insights%20-%20Data%20Analysis%20Tableau.twbx)
 	
 <p  align="center"><img width="100%" src="https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/images/Tableau%20Dashbpard%20Profit%20Analysis.png" /></p>
   
