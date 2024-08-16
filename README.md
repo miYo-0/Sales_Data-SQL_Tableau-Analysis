@@ -59,11 +59,11 @@ An automated dashboard providing quick & latest sales insights in order to suppo
 - Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
 
 ### Data Analysis - Approach
-<p  align="center"><a href="https://github.com/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/flow.jpg" /></a></p>
+<p  align="center"><a<img width="80%" src="https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/images/flow.jpg" /></a></p>
 
 ### Setup Process
   
-Step 1: Download file: <code>[db_dump.sql](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/Databases/db_dump.sql)</code> or <code>[db_dump.xlsx](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/Databases/db_dump.xlsx)</code>
+Step 1: Download file: <code>[db_dump.sql](https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/Databases/db_dump.sql)</code> or <code>[db_dump.xlsx](https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/Databases/db_dump.xlsx)</code>
 
 Step 2: Import it in MySql do ETL(Extract, Transform, Load) if required
 
@@ -119,15 +119,15 @@ Step 5: Save the file as (.twb or .twbx)
 
 #### Creating Star Schema in Tableau
 	
-<p  align="center"><a<img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Star%20Schema.png" /></a></p>
+<p  align="center"><a<img width="80%" src="https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/images/Star%20Schema.png" /></a></p>
 
 #### Tableau Dashboard - [Revenue Analysis](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 	
-<p  align="center"><a<img width="100%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png" /></a></p>
+<p  align="center"><a<img width="100%" src="https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png" /></a></p>
 
 #### Tableau Dashboard - [Profit Analysis](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-ProfitAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 	
-<p  align="center"><a<img width="100%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Tableau%20Dashbpard%20Profit%20Analysis.png" /></a></p>
+<p  align="center"><a<img width="100%" src="https://github.com/miYo-0/Sales_Data-SQL_Tableau-Analysis/blob/main/images/Tableau%20Dashbpard%20Profit%20Analysis.png" /></a></p>
   
 ## Project References: 🔗
 
